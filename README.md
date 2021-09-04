@@ -1,0 +1,2 @@
+# FYS-STK
+Making AI
